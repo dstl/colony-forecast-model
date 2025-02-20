@@ -60,7 +60,7 @@ Please note the following two things are required, to be able to run the tests:
 - You must insert the path of your working directory (i.e. where the model scripts are saved) where indicated, assigning it to the variable `working_dir_path`. This is required in both scripts.
 
 Once `testthat` is installed and the variable `working_dir_path` is assigned, the two test scripts can be run. Please note that [test_colony_forecast](tests/test_colony_forecast.R) loads dummy model parameters (similar 
-to those used in [demo_colony_forecast](demo_colony_forecast.R)) from an .RData file, [testing_dummydata](testing_dummydata.RData).
+to those used in [demo_colony_forecast](demo_colony_forecast.R)) from an .RData file, [testing_dummydata](tests/testing_dummydata.RData).
 
 If these instructions are followed, the model will pass all of its unit tests. However, if any of the model functions are modified, for instance when customising the model for a new colony, it is expected that relevant unit tests will fail, due to the model changes. 
 Therefore, it is recommended, as best practice, to make a habit of modifying the unit tests accordingly and iteratively re-testing, to ensure that the model continues to work as intended.
