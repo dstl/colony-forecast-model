@@ -1,0 +1,26 @@
+(C) Crown Copyright 2025 Defence Science and Technology Laboratory UK
+
+This information is licensed under the UK Open Government Licence v3. 
+
+To view this licence, visit http://www.nationalarchives.gov.uk/doc/. 
+
+Where we have identified any third party copyright information, you will need to 
+obtain permission from the copyright holders concerned.
+
+Any enquiries regarding this publication should be sent to: 
+
+centralenquiries@dstl.gov.uk. 
+
+The contents of this document should not be interpreted as representing the 
+views of the UK MOD, nor should it be assumed that they reflect any current or 
+future UK MOD policy. The information contained in this document cannot 
+supersede any statutory or contractual requirements or liabilities and is 
+offered without prejudice or commitment.
+
+The software/data, including any associated documentation, is supplied without
+warranty of performance, and in particular Dstl does not warrant, guarantee
+or make any representations regarding the use or the results of the use of the
+software in terms of currentness, accuracy, reliability, correctness,
+merchantability, fitness for purpose or otherwise.
+
+This software must only be used in compliance with this licence. 

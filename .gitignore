@@ -1,0 +1,9 @@
+*.RData
+*.Rproj
+*.Rproj.user
+*.Rhistory
+*.RDataTmp
+*.Ruserdata
+*.Rproj.user
+
+!/tests/testing_dummydata.RData
