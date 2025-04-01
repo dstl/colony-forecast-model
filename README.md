@@ -1,6 +1,6 @@
 # Colony Forecasting Model
 
-This code provides an implementation of the model described in ["Paper title..."](link_to_paper). It consists of a set of R scripts that contain functions 
+This code provides an implementation of the model described in ["A computational model to support the welfare-based management of a laboratory colony of common marmosets"](https://www.nature.com/articles/s41684-025-01518-3). It consists of a set of R scripts that contain functions 
 to simulate the population dynamics of an experimental primate colony, taking into account births, deaths, demographics, breeding controls and other potential 
 outlets from the population (e.g. relocations). 
 
@@ -16,7 +16,7 @@ The instructions provided below will enable you to get the model up and running 
 
 Technical description of the model and details of data requirements are provided in the following article from Nature Lab Animal: 
 
-["Paper title..."](link_to_paper)
+["A computational model to support the welfare-based management of a laboratory colony of common marmosets"](https://www.nature.com/articles/s41684-025-01518-3)
 
 
 ## Requirements
@@ -39,7 +39,7 @@ The model consists of two R scripts:
 
 The model is based around the specific colony demographic structure described in the paper. If you intend to apply the model 
 to a different colony, then some modification of the model may be required for your context. The article provides advice for making such modifications. 
-Data to parametrise the model will be derived from your own colony record-keeping system (see [the Nature Lab Animal article](link_to_paper) for data requirements).
+Data to parametrise the model will be derived from your own colony record-keeping system (see [the Nature Lab Animal article](https://www.nature.com/articles/s41684-025-01518-3) for data requirements).
 
 A third script is also provided, [demo_colony_forecast](demo_colony_forecast.R). This script demonstrates how to set up and run the model. Please note that you will need to insert the path to the working directory where the model scripts are saved, at the variable `working_dir_path`.
 Having been pointed to the working directory, this script sources the two model scripts described above, and runs the model using dummy input parameters. 
